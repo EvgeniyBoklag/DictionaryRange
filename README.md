@@ -1,8 +1,10 @@
 # DictionaryRange
- Show English Dictionary Words between provided range
+ Show English Dictionary Words between provided range.
+ 
  Task description:
  Create a Web API project.
-The following file contains an English dictionary list: http://www.math.sjsu.edu/~foster/dictionary.txt
+ 
+The following file contains an English dictionary list: http://www.math.sjsu.edu/~foster/dictionary.txt .
 Download this file and add it to your project.
 Create a controller "WordController" that will allow range queries against this dictionary list file.
  
