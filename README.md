@@ -8,7 +8,7 @@ The following file contains an English dictionary list: http://www.math.sjsu.edu
 Download this file and add it to your project.
 Create a controller "WordController" that will allow range queries against this dictionary list file.
  
-Create an HTML web page with Javascript (you may use JQuery or anything else)
+Create an HTML web page with Javascript (you may use JQuery or anything else). 
 Call the WordController from the web page.
  
 If you display your web page with manually typed-in query params:
