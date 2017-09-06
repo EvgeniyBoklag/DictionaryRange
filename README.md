@@ -2,6 +2,7 @@
  Show English Dictionary Words between provided range.
  
  Task description:
+ 
  Create a Web API project.
  
 The following file contains an English dictionary list: http://www.math.sjsu.edu/~foster/dictionary.txt .
